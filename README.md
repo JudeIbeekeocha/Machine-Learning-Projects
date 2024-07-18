@@ -4,7 +4,7 @@ Welcome to the **Machine Learning Algorithms Applied to Financial Data** reposit
 
 ## Overview
 
-In this repository, you will find implementations and explanations of various machine learning algorithms used for financial data analysis. The algorithms covered include:
+In this repository, you will find implementations of various machine-learning algorithms used for financial data analysis. The algorithms covered include:
 
 - Linear Regression
 - Multiple Linear Regression
